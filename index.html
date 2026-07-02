@@ -129,6 +129,21 @@
   }
   .apply-btn:hover{ background: var(--accent-hover); }
 
+  .mark-applied-btn{
+    background: none;
+    border: 1px solid var(--card-border);
+    color: var(--text-muted);
+    font-family: 'Inter', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 30px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: border-color .15s ease, color .15s ease;
+  }
+  .mark-applied-btn:hover{ border-color: var(--text-muted); color: var(--text); }
+
   .section-title{
     font-family:'Bebas Neue', sans-serif;
     letter-spacing: 0.06em;
@@ -151,6 +166,14 @@
   .progress-row .who{ color: var(--text); font-weight: 600; }
   .progress-row .role-sm{ color: var(--text-muted); }
   .progress-row .status{ color: var(--text-muted); font-size: 13px; text-align: right; }
+  .progress-row .status-col{ display:flex; align-items:center; gap: 14px; }
+  .undo-link{
+    background:none; border:none; cursor:pointer;
+    color: var(--text-muted); font-family:'Inter', sans-serif;
+    font-size: 12px; text-decoration: underline;
+    padding: 0; white-space: nowrap;
+  }
+  .undo-link:hover{ color: var(--text); }
 
   .empty{ color: var(--text-muted); padding: 40px 0; }
 
@@ -181,36 +204,54 @@
   </div>
 
 <script>
-async function loadDashboard(){
+const APPLIED_KEY = 'bc_appliedJobs';
+let dashboardData = null;
+
+function getAppliedMap(){
+  try{ return JSON.parse(localStorage.getItem(APPLIED_KEY) || '{}'); }
+  catch(e){ return {}; }
+}
+function setAppliedMap(map){ localStorage.setItem(APPLIED_KEY, JSON.stringify(map)); }
+
+function markApplied(jobId){
+  const applied = getAppliedMap();
+  applied[jobId] = new Date().toISOString();
+  setAppliedMap(applied);
+  render();
+}
+function unmarkApplied(jobId){
+  const applied = getAppliedMap();
+  delete applied[jobId];
+  setAppliedMap(applied);
+  render();
+}
+
+function render(){
+  if(!dashboardData) return;
   const grid = document.getElementById('jobsGrid');
   const metaRow = document.getElementById('metaRow');
   const progressList = document.getElementById('progressList');
   const footer = document.getElementById('footer');
 
-  let data;
-  try{
-    const res = await fetch('jobs-data.json', { cache: 'no-store' });
-    data = await res.json();
-  }catch(e){
-    grid.innerHTML = '<div class="empty">Could not load job data (jobs-data.json). If you\'re opening this file locally, serve it over http instead of double-clicking it.</div>';
-    return;
-  }
+  const appliedMap = getAppliedMap();
+  const allJobs = dashboardData.jobs || [];
+  const activeJobs = allJobs.filter(j => !appliedMap[j.id]);
+  const selfAppliedJobs = allJobs.filter(j => appliedMap[j.id]);
 
-  const jobs = data.jobs || [];
-  const newCount = jobs.filter(j => j.isNew).length;
-  const updated = new Date(data.lastUpdated);
+  const newCount = activeJobs.filter(j => j.isNew).length;
+  const updated = new Date(dashboardData.lastUpdated);
   const updatedStr = updated.toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' });
 
   metaRow.innerHTML = `
-    <span><span class="meta-dot"></span><strong>${jobs.length}</strong> open roles tracked</span>
+    <span><span class="meta-dot"></span><strong>${activeJobs.length}</strong> open roles tracked</span>
     <span><span class="meta-dot"></span><strong>${newCount}</strong> new since last check</span>
     <span>Last updated <strong>${updatedStr}</strong></span>
   `;
 
-  if(jobs.length === 0){
-    grid.innerHTML = '<div class="empty">No matching openings found in the last scan. Check back tomorrow.</div>';
+  if(activeJobs.length === 0){
+    grid.innerHTML = '<div class="empty">No matching openings left to review. Check back tomorrow.</div>';
   } else {
-    grid.innerHTML = jobs.map(job => `
+    grid.innerHTML = activeJobs.map(job => `
       <div class="card">
         <div class="card-top">
           <div class="company">${job.company}</div>
@@ -224,24 +265,50 @@ async function loadDashboard(){
           <span class="source">via ${job.source}</span>
           <a class="apply-btn" href="${job.applyUrl}" target="_blank" rel="noopener">Apply →</a>
         </div>
+        <button class="mark-applied-btn" onclick="markApplied('${job.id}')">Already Applied</button>
       </div>
     `).join('');
   }
 
-  const inProgress = data.inProgress || [];
-  progressList.innerHTML = inProgress.length
-    ? inProgress.map(p => `
+  const inProgress = dashboardData.inProgress || [];
+  const progressRows = [
+    ...inProgress.map(p => ({ company: p.company, role: p.role, status: p.status, undoId: null })),
+    ...selfAppliedJobs.map(j => ({
+      company: j.company,
+      role: j.title,
+      status: 'Marked applied ' + new Date(appliedMap[j.id]).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+      undoId: j.id
+    }))
+  ];
+
+  progressList.innerHTML = progressRows.length
+    ? progressRows.map(p => `
         <div class="progress-row">
           <div>
             <div class="who">${p.company}</div>
             <div class="role-sm">${p.role}</div>
           </div>
-          <div class="status">${p.status}</div>
+          <div class="status-col">
+            <div class="status">${p.status}</div>
+            ${p.undoId ? `<button class="undo-link" onclick="unmarkApplied('${p.undoId}')">Undo</button>` : ''}
+          </div>
         </div>
       `).join('')
     : '<div class="empty">Nothing in progress yet.</div>';
 
   footer.textContent = `Scans the Charlotte, NC market every night and refreshes automatically. Data current as of ${updatedStr}.`;
+}
+
+async function loadDashboard(){
+  const grid = document.getElementById('jobsGrid');
+  try{
+    const res = await fetch('jobs-data.json', { cache: 'no-store' });
+    dashboardData = await res.json();
+  }catch(e){
+    grid.innerHTML = '<div class="empty">Could not load job data (jobs-data.json). If you\'re opening this file locally, serve it over http instead of double-clicking it.</div>';
+    return;
+  }
+  render();
 }
 
 loadDashboard();
