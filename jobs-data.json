@@ -1,0 +1,116 @@
+{
+  "lastUpdated": "2026-07-02T00:00:00-04:00",
+  "market": "Charlotte, NC",
+  "candidate": {
+    "name": "Brendan Cavazos",
+    "title": "Sports & Broadcast Video Editor"
+  },
+  "jobs": [
+    {
+      "id": "nascar-youtube-video-producer",
+      "title": "YouTube Video Producer (Senior Coordinator)",
+      "company": "NASCAR",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.teamworkonline.com/motorsports-jobs/nascar/nascar-jobs-/youtube-video-producer-2163011",
+      "source": "TeamWork Online",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Adobe Premiere Pro", "YouTube-first content", "Motorsports", "Field shooting"],
+      "blurb": "Own YouTube content end-to-end — concept, shoot, edit, publish — for NASCAR drivers and events. Wants a portfolio with 2+ self-shot-and-edited YouTube videos and motorsports familiarity."
+    },
+    {
+      "id": "nascar-social-content-producer",
+      "title": "Social Content Producer",
+      "company": "NASCAR",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.teamworkonline.com/motorsports-jobs/nascar/nascar-jobs-/social-content-producer-2154549",
+      "source": "TeamWork Online",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": "$47K–$65K (est.)",
+      "whyFits": ["Short-form social video", "Sports content", "Fast-turn deadlines", "TikTok/Reels/X"],
+      "blurb": "Shoot and edit short-form video for TikTok, Reels, X, and Facebook around NASCAR drivers and races — 65% content creation, 35% at-track event coverage."
+    },
+    {
+      "id": "nascar-content-production-manager",
+      "title": "Content Production Manager (Sr. Manager, YouTube Race Content & Editing)",
+      "company": "NASCAR",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.teamworkonline.com/motorsports-jobs/nascar/nascar-jobs-/content-production-manager-2160838",
+      "source": "TeamWork Online",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Production management", "Sports content", "Cross-team coordination", "5+ yrs production exp."],
+      "blurb": "A step up in scope — owns production readiness and timelines between NASCAR's social/YouTube team, drivers, and outside production partners. Worth a look given PBR/FOX Sports production experience."
+    },
+    {
+      "id": "hendrick-motorsports-content-creator",
+      "title": "Content Creator (Creative Services)",
+      "company": "Hendrick Motorsports",
+      "location": "Concord, NC (Charlotte area)",
+      "applyUrl": "https://hendrick.wd5.myworkdayjobs.com/en-US/HMSCareers/details/Content-Editor_R-65207",
+      "source": "Hendrick Motorsports Careers",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Race-weekend field shooting", "Social-first video", "Branded content", "Motorsports"],
+      "blurb": "Shoot and edit video for social, HendrickMotorsports.com, brand campaigns, and partner activations — including on-site race-weekend storytelling. Near-identical shape to the PBR role."
+    },
+    {
+      "id": "cmg-wsoc-news-editor",
+      "title": "News Editor",
+      "company": "WSOC-TV (Cox Media Group)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://cmg.jobs.net/en-US/job/news-editor-wsoc-tv/J3T4MW793L6R6VSCF4C",
+      "source": "Cox Media Group Careers",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Broadcast editing", "After Effects/Photoshop", "Fast-turn deadlines", "Live news"],
+      "blurb": "Non-linear editing for live local news, plus graphics work in Adobe After Effects/Photoshop. Wants a demo reel — easy pull from PBR/FOX Sports work."
+    },
+    {
+      "id": "wbtv-video-editor",
+      "title": "Video Editor / News Photographer-Videojournalist",
+      "company": "WBTV (Gray Media)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://gray.tv/careers#currentopenings",
+      "source": "Gray Media Careers",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Broadcast editing", "Social/digital cutdowns", "Live & multi-cam"],
+      "blurb": "Edit for broadcast plus digital/social platforms; search current openings on Gray's careers page for the specific WBTV req."
+    },
+    {
+      "id": "wcnc-video-editor-photojournalist",
+      "title": "Video Editor / Photojournalist (Wake-Up Charlotte)",
+      "company": "WCNC Charlotte (TEGNA)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://tegna.jobs.net/jobs-in-charlotte,nc",
+      "source": "TEGNA Careers",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Broadcast editing", "Field shooting", "Social-first content"],
+      "blurb": "In-house editing for the morning newscast plus fieldwork, shareable social cuts. Link goes to TEGNA's live Charlotte openings — confirm the exact req before applying."
+    }
+  ],
+  "inProgress": [
+    { "company": "Charlotte Hornets", "role": "Director of Content & Creative Ops", "status": "Resume & cover letter already prepared" },
+    { "company": "The Athletic", "role": "Senior Executive Video Producer", "status": "Resume & cover letter already prepared" },
+    { "company": "Complex NTWRK", "role": "Freelance Social Video Creator", "status": "Resume & cover letter already prepared" },
+    { "company": "Lowe's", "role": "Creative Designer", "status": "Resume & cover letter already prepared" },
+    { "company": "Perfect Game", "role": "Social Video Editor", "status": "Resume & cover letter already prepared" },
+    { "company": "Marty Snider & Associates (MSA)", "role": "Video Editor", "status": "Resume, cover letter & email already prepared" }
+  ]
+}
