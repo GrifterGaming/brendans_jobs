@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T20:30:00-04:00",
+  "lastUpdated": "2026-07-02T21:45:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -61,6 +61,62 @@
       "salary": null,
       "whyFits": ["Adobe Premiere Pro", "After Effects", "5+ yrs video production", "End-to-end production"],
       "blurb": "Financial-services company (not sports/media), but the role itself is a strong skills match: 5+ years video production, Premiere Pro/After Effects, full concept-to-delivery ownership. Verified open on Indeed, posted today."
+    },
+    {
+      "id": "span-enterprises-video-editor-motion-graphic",
+      "title": "Video Editor / Motion Graphic Designer",
+      "company": "SPAN Enterprises",
+      "location": "Rock Hill, SC (Charlotte area)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=9b3579c4dd93d5e4",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": "$40,000–$50,000/yr",
+      "whyFits": ["Adobe Premiere Pro", "After Effects", "Short-form social content", "Marketing team collaboration"],
+      "blurb": "Software company's in-house Marketing team — edit product demos, testimonials, and short-form social content (YouTube Shorts, TikTok, Reels) using Premiere Pro, After Effects, Photoshop, and Illustrator. Straightforward skills match outside the sports/media world. Verified open on Indeed."
+    },
+    {
+      "id": "dnp-imagingcomm-content-creator-campaign",
+      "title": "Content Creator and Campaign Specialist",
+      "company": "DNP Imagingcomm America",
+      "location": "Concord, NC (Charlotte area)",
+      "applyUrl": "https://www.indeed.com/cmp/Dnp-Imagingcomm-America-Corporation/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": "$24–$25/hr",
+      "whyFits": ["Short-form video + social assets", "Multi-channel campaigns", "Community management", "3+ yrs content/marketing"],
+      "blurb": "This is the social media marketing side of the field, not straight video editing — builds and runs multi-channel campaigns (social, email, web) with short-form video as one piece. Good option if Brendan wants to broaden beyond pure editing. Verified open on Indeed; link goes to DNP's Indeed jobs page since the direct post uses a rotating tracking link — search \"Content Creator and Campaign Specialist.\""
+    },
+    {
+      "id": "gallery-house-youtube-channel-manager",
+      "title": "YouTube Channel Manager (Freelance/Internship)",
+      "company": "Gallery House",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=4613782268d82612",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": "$20–$50/hr",
+      "whyFits": ["Videography", "Adobe Creative Suite", "YouTube/Instagram/TikTok content", "Freelance/flexible"],
+      "blurb": "A local freelance/gig option, not a stable salaried role: build out a Charlotte art-gallery lounge's YouTube/social presence, pay is performance-based (per-video plus a cut of monetization) rather than guaranteed hourly. Worth knowing about, but treat the pay as variable. Verified open on Indeed. Must be 21+ (venue is a bar)."
+    },
+    {
+      "id": "upwork-freelance-video-editing-marketplace",
+      "title": "Freelance Video Editing Gigs (Marketplace)",
+      "company": "Upwork",
+      "location": "Remote",
+      "applyUrl": "https://www.upwork.com/nx/search/jobs/?q=video%20editor",
+      "source": "Upwork",
+      "dateFirstSeen": "2026-07-02",
+      "dateLastConfirmed": "2026-07-02",
+      "isNew": true,
+      "salary": null,
+      "whyFits": ["Freelance/contract", "Adobe Premiere Pro", "Short-form + documentary editing", "Remote/flexible"],
+      "blurb": "Not a single job — this is a live search of Upwork's current video-editing gig postings (YouTube channels, docuseries post-production, social clips, and more), refreshed constantly. Requires a free Upwork profile to submit proposals. Good option if Brendan wants freelance work on the side or between full-time roles."
     }
   ],
   "inProgress": [
