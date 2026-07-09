@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T04:15:00-04:00",
+  "lastUpdated": "2026-07-08T22:55:14-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -225,7 +225,7 @@
       "source": "Indeed",
       "dateFirstSeen": "2026-07-08",
       "dateLastConfirmed": "2026-07-08",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": ["Adobe Premiere Pro/After Effects", "Color correction & VFX/motion graphics", "Broadcast + digital + social delivery", "Editorial team leadership"],
       "blurb": "A stretch role — INSP (a national broadcast network based just south of Charlotte) wants 8-10 years of post-production experience plus team-lead/supervisory duties, well above Brendan's current 5 years. But the hands-on craft (advanced editing, color, VFX, motion graphics across broadcast/digital/social) is squarely in his wheelhouse if he wants to aim high. Requires a portfolio/demo reel with the application. Verified open on Indeed with a live Apply button today."
@@ -239,10 +239,38 @@
       "source": "Indeed",
       "dateFirstSeen": "2026-07-08",
       "dateLastConfirmed": "2026-07-08",
-      "isNew": true,
+      "isNew": false,
       "salary": "$25–$40/hr",
       "whyFits": ["Premiere Pro/DaVinci/Final Cut", "Local freelance/contract", "Ongoing monthly work", "Independent editing"],
       "blurb": "A Charlotte-based freelance/contract lane, not a full-time job — ongoing monthly editing of commercial construction progress videos and photos for a local production company. Low but steady supplemental pay ($500-800/month depending on workload); good side option alongside full-time applications. Apply by emailing a portfolio directly (no online ATS). Verified open on Indeed with an active listing today."
+    },
+    {
+      "id": "mpi-creative-designer-digital-content-specialist",
+      "title": "Creative Designer / Digital Content Specialist",
+      "company": "MPI",
+      "location": "Mooresville, NC (Charlotte area, Hybrid)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=61dd3229197392b1",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-08",
+      "dateLastConfirmed": "2026-07-08",
+      "isNew": true,
+      "salary": "$30,000–$70,000/yr",
+      "whyFits": ["Adobe Premiere Pro/Photoshop/Illustrator/Lightroom", "Photography + video capture and editing", "Motorsports passion preferred", "Hybrid, part-time"],
+      "blurb": "General video-editing/creative-production role at a Mooresville motorsports-adjacent company — shoots and edits promotional videos/reels and product photography, plus graphic design in Adobe Creative Suite. Part-time/hybrid, and lists 'motorsports passion preferred,' a nice overlap with Brendan's NASCAR-market background. Verified open on Indeed with a live Apply button today."
+    },
+    {
+      "id": "mpi-communications-marketing-specialist",
+      "title": "Communications & Marketing Specialist",
+      "company": "MPI",
+      "location": "Mooresville, NC (Charlotte area)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=5c4d1f68c86f1d9e",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-08",
+      "dateLastConfirmed": "2026-07-08",
+      "isNew": true,
+      "salary": "$45,000–$90,000/yr",
+      "whyFits": ["Social media management + content calendars", "Photography/video capture and editing", "Travels to ~10 race events/year", "Motorsports experience preferred"],
+      "blurb": "Social-media-marketing lane, not pure editing — press releases, newsletters, and social scheduling make up most of the role, but it includes hands-on photo/video capture and editing at roughly 10 race events a year, a strong motorsports-industry overlap with Brendan's PBR/FOX Sports background. Full-time. Verified open on Indeed with a live Apply button today."
     }
   ],
   "inProgress": [
