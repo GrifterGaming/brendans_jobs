@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T23:10:00-04:00",
+  "lastUpdated": "2026-07-23T23:15:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -320,7 +320,12 @@
       "dateLastConfirmed": "2026-07-22",
       "isNew": false,
       "salary": null,
-      "whyFits": ["Digital/social content production", "Journalistic storytelling across platforms", "Broadcast newsroom (sports/broadcast lane)", "Content scheduling & audience engagement"],
+      "whyFits": [
+        "Digital/social content production",
+        "Journalistic storytelling across platforms",
+        "Broadcast newsroom (sports/broadcast lane)",
+        "Content scheduling & audience engagement"
+      ],
       "blurb": "Broadcast-newsroom digital role at WBTV — regularly creates and schedules social/digital content to promote station coverage, tailoring storytelling for each platform. Sits alongside the CMG/WSOC promotion producer role already on this list as another local-TV digital-content lane. Verified open on Indeed; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via Gray Media's Indeed company jobs page — look for \"Digital Content News Producer - WBTV.\""
     },
     {
@@ -674,7 +679,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Full-time in-house videographer, Sony FX-series cameras",
@@ -693,7 +698,7 @@
       "source": "Indeed (search)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": "$45,000–$50,000/yr",
       "whyFits": [
         "Mix of writing and video/photo/audio editing",
@@ -712,7 +717,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Final Cut Pro video editing",
@@ -731,7 +736,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": "$70,000–$80,000/yr",
       "whyFits": [
         "Fully-remote, full-time role (new remote category)",
@@ -750,7 +755,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Fully-remote, full-time role (new remote category)",
@@ -769,7 +774,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": "$70,000–$95,000/yr",
       "whyFits": [
         "Fully-remote, full-time role (new remote category)",
@@ -788,7 +793,7 @@
       "source": "Indeed",
       "dateFirstSeen": "2026-07-22",
       "dateLastConfirmed": "2026-07-22",
-      "isNew": true,
+      "isNew": false,
       "salary": "$59,062.50–$92,285.16/yr",
       "whyFits": [
         "Fully-remote, full-time role (new remote category)",
@@ -797,6 +802,63 @@
         "Edits copy and covers major-conference college sports brands"
       ],
       "blurb": "Writing/journalism lane, fully remote, and an honest stretch. USA TODAY Network's Center for Community Journalism wants a Sports Content Coach to edit copy, coach, and manage a team of writers covering college sports (Alabama, Duke, Georgia, Notre Dame, and more) across its network of local newsrooms. A bachelor's in journalism/communications fits his ECU degree, but it wants at least 3 years of professional experience inside a news organization plus experience managing and coaching other journalists — a real gap, since his four years running The East Carolinian's sports desk was unpaid student journalism, not a professional newsroom role. Worth naming as a stretch given the strong subject-matter and degree fit. Verified open on Indeed today with a live 'Apply on company site' button; it's a standard (non-tracking) Indeed listing."
+    },
+    {
+      "id": "panthers-producer-control-room",
+      "title": "Producer - Control Room",
+      "company": "Carolina Panthers",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=3af5853b4bf29af3",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-23",
+      "dateLastConfirmed": "2026-07-23",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Sports/broadcast lane at Bank of America Stadium",
+        "Produces and edits in-venue video content (hype videos, player features)",
+        "Live control room ops (replay, graphics, playback, switcher)",
+        "1-3+ yrs live production experience preferred, not required"
+      ],
+      "blurb": "Sports/broadcast lane — a mid-level PantherVision role supporting live game-day control room operations at Bank of America Stadium while also producing and editing in-venue video content like hype videos and player features. A different, freshly re-posted req from the Senior Producer, Production Operations role already on this board (that one wants 7+ years; this one only asks for experience in a live event/broadcast/sports environment, with 1-3+ years preferred). A similar posting under this title was dropped from this board on 2026-07-21 as expired; this is a new listing (posted June 17) that reappeared with a live apply link. Verified open on Indeed today with a live 'Apply on company site' button; standard (non-tracking) Indeed listing."
+    },
+    {
+      "id": "hemp-tea-content-creator-social-media",
+      "title": "Content Creator & Social Media Marketing Specialist",
+      "company": "Hemp & Tea Company",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/cmp/Hemp-%26-Tea-Company/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-07-23",
+      "dateLastConfirmed": "2026-07-23",
+      "isNew": true,
+      "salary": "$18.50-$21.00/hr",
+      "whyFits": [
+        "Social-media-marketing lane with real hands-on production",
+        "Films and edits short-form video for Instagram/TikTok/YouTube Shorts",
+        "Interviews staff/customers for content — storytelling overlap",
+        "Full-time, in-person, Charlotte"
+      ],
+      "blurb": "Social-media-marketing lane, not pure editing, but a genuinely hands-on shoot-and-edit role — a Charlotte hemp dispensary/tea bar wants someone to capture and edit short-form video across its store locations, interview staff and customers for content, and grow its social following into foot traffic. Full-time despite the 'part-time' tag on the search listing (the posting itself says 30-40 hrs/week, in-person). Not sports/media, but a clean match for his video and storytelling skills. Verified open on Indeed today; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via Hemp & Tea Company's Indeed company jobs page — look for \"Content Creator & Social Media Marketing Specialist.\""
+    },
+    {
+      "id": "taxsolve-content-writer-remote",
+      "title": "Content Writer (Remote)",
+      "company": "TaxSolve Inc. (TaxStache newsletter)",
+      "location": "Remote (US)",
+      "applyUrl": "https://www.indeed.com/cmp/TaxSolve-Inc./jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-07-23",
+      "dateLastConfirmed": "2026-07-23",
+      "isNew": true,
+      "salary": "$24-$25/hr",
+      "whyFits": [
+        "Fully-remote, full-time role (remote category)",
+        "Journalism/English bachelor's degree required",
+        "Only 1+ yr of published writing experience required — low bar",
+        "Humor-driven newsletter writing, not sports/news"
+      ],
+      "blurb": "Writing/journalism lane, fully remote — TaxStache (a personal-finance/tax newsletter reaching 20,000 subscribers weekly) wants a content writer with a journalism, English, or communications degree and a knack for making dry financial topics entertaining. Only 1+ year of professional/published writing experience is required, a lower bar than most writing roles on this board, and his ECU journalism degree and Sports Editor tenure at The East Carolinian cover the core ask even though the subject matter (personal finance) and tone (comedic newsletter) are a departure from sports/news. A genuine low-friction way to build professional-writing credit while fully remote. Verified open on Indeed today; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via TaxSolve Inc.'s Indeed company jobs page — look for \"Content Writer - Remote.\""
     }
   ],
   "inProgress": [
