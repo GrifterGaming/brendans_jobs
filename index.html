@@ -101,6 +101,7 @@
     line-height: 1.25;
   }
   .location{ font-size: 13px; color: var(--text-muted); }
+  .date-added{ font-size: 12px; color: #6f6f6f; }
   .blurb{ font-size: 14px; color: #d0d0d0; }
   .salary{ font-size: 13px; color: var(--text-muted); }
 
@@ -226,6 +227,12 @@ function unmarkApplied(jobId){
   render();
 }
 
+function formatDate(dateStr){
+  if(!dateStr) return '';
+  const d = new Date(dateStr + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
 function render(){
   if(!dashboardData) return;
   const grid = document.getElementById('jobsGrid');
@@ -235,7 +242,9 @@ function render(){
 
   const appliedMap = getAppliedMap();
   const allJobs = dashboardData.jobs || [];
-  const activeJobs = allJobs.filter(j => !appliedMap[j.id]);
+  const activeJobs = allJobs
+    .filter(j => !appliedMap[j.id])
+    .sort((a, b) => new Date(b.dateFirstSeen) - new Date(a.dateFirstSeen));
   const selfAppliedJobs = allJobs.filter(j => appliedMap[j.id]);
 
   const newCount = activeJobs.filter(j => j.isNew).length;
@@ -259,6 +268,7 @@ function render(){
         </div>
         <div class="role">${job.title}</div>
         <div class="location">${job.location}${job.salary ? ' · ' + job.salary : ''}</div>
+        <div class="date-added">Added ${formatDate(job.dateFirstSeen)}</div>
         <div class="blurb">${job.blurb || ''}</div>
         <div class="tags">${(job.whyFits || []).map(t => `<span class="tag">${t}</span>`).join('')}</div>
         <div class="card-footer">
