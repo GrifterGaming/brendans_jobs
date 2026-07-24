@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T23:15:00-04:00",
+  "lastUpdated": "2026-07-24T22:30:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -14,7 +14,7 @@
       "applyUrl": "https://nascar.wd1.myworkdayjobs.com/en-US/NASCAR/job/Charlotte-NC/Digital-Content-Producer_JR14070",
       "source": "NASCAR Careers (Workday)",
       "dateFirstSeen": "2026-07-02",
-      "dateLastConfirmed": "2026-07-22",
+      "dateLastConfirmed": "2026-07-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -33,7 +33,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-Promotion-Producer-WSOC-TV-Telemundo-NC-28206/1362987400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-07-02",
-      "dateLastConfirmed": "2026-07-22",
+      "dateLastConfirmed": "2026-07-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -203,7 +203,7 @@
       "applyUrl": "https://www.indeed.com/viewjob?jk=97b688c75ae18465",
       "source": "Indeed",
       "dateFirstSeen": "2026-07-06",
-      "dateLastConfirmed": "2026-07-22",
+      "dateLastConfirmed": "2026-07-24",
       "isNew": false,
       "salary": "$16–$20/hr",
       "whyFits": [
@@ -716,7 +716,7 @@
       "applyUrl": "https://www.indeed.com/cmp/Greenworks-Tools/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-07-22",
-      "dateLastConfirmed": "2026-07-22",
+      "dateLastConfirmed": "2026-07-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -859,6 +859,63 @@
         "Humor-driven newsletter writing, not sports/news"
       ],
       "blurb": "Writing/journalism lane, fully remote — TaxStache (a personal-finance/tax newsletter reaching 20,000 subscribers weekly) wants a content writer with a journalism, English, or communications degree and a knack for making dry financial topics entertaining. Only 1+ year of professional/published writing experience is required, a lower bar than most writing roles on this board, and his ECU journalism degree and Sports Editor tenure at The East Carolinian cover the core ask even though the subject matter (personal finance) and tone (comedic newsletter) are a departure from sports/news. A genuine low-friction way to build professional-writing credit while fully remote. Verified open on Indeed today; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via TaxSolve Inc.'s Indeed company jobs page — look for \"Content Writer - Remote.\""
+    },
+    {
+      "id": "cmg-wsoc-content-coordinator",
+      "title": "Content Coordinator",
+      "company": "Cox Media Group (WSOC-TV)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://careers.cmg.com/job/Charlotte-Content-Coordinator-WSOC-TV-NC-28206/1380359700/",
+      "source": "Cox Media Group Careers",
+      "dateFirstSeen": "2026-07-24",
+      "dateLastConfirmed": "2026-07-24",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Writing/journalism lane — newsroom content role",
+        "No strict years requirement — newsroom experience preferred, not required",
+        "Gathers & writes content for digital/social platforms",
+        "Same station as the Promotion Producer role already on this board"
+      ],
+      "blurb": "Writing/journalism lane, and a genuinely low-barrier entry into a Charlotte broadcast newsroom. WSOC-TV wants a Content Coordinator to monitor station email/phones/scanners/social media, coordinate field-crew logistics, and gather and write content for digital and social platforms during breaking news and major events. Wants a strong writer with editorial judgment; previous newsroom experience is preferred but not required, which makes this more accessible than most broadcast roles on this board. A different req from the WSOC Promotion Producer already listed here — this one is newsroom/editorial rather than promos. Verified open on Cox Media Group's own careers site today (Req #2157) with a live Apply Now button."
+    },
+    {
+      "id": "mark-spain-real-estate-social-media-manager-content-creator",
+      "title": "Social Media Manager & Content Creator",
+      "company": "Mark Spain Real Estate",
+      "location": "Charlotte, NC (Hybrid; HQ Alpharetta, GA)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=2c48df379b59bad9",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-24",
+      "dateLastConfirmed": "2026-07-24",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Social-media-marketing lane with real shoot + edit work",
+        "3-5 yrs experience required, matches his tenure",
+        "Owns content across Facebook/Instagram/LinkedIn/TikTok/YouTube",
+        "On-location shoots + UGC-style video for paid social"
+      ],
+      "blurb": "Social-media-marketing lane, hands-on rather than pure strategy — a net-new role at a top-rated national real-estate brokerage, planning, shooting, and editing video and static content (agent testimonials, day-in-the-life videos, customer stories) across Facebook, Instagram, LinkedIn, TikTok, and YouTube, plus on-location shoots with leadership and agents. Wants 3-5 years of social content creation with a video-and-static portfolio, a clean match for his tenure. The catch: Atlanta (Alpharetta HQ) is strongly preferred, and Charlotte-based candidates are explicitly considered but would need periodic travel to Atlanta for shoots and team alignment — worth knowing going in. Verified open on Indeed today with a live 'Apply with Indeed' button."
+    },
+    {
+      "id": "reserve-health-brand-content-manager",
+      "title": "Brand & Content Manager",
+      "company": "Reserve Health",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=0ca0c5e04075158d",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-07-24",
+      "dateLastConfirmed": "2026-07-24",
+      "isNew": true,
+      "salary": "$75,000/yr",
+      "whyFits": [
+        "Genuine mix of both lanes — writing AND video/photo in one role",
+        "Bachelor's in journalism explicitly accepted for the degree requirement",
+        "Shoots, edits, and writes original stories/interviews",
+        "Full-time, Charlotte-based, real salary"
+      ],
+      "blurb": "A genuine both-lanes-at-once match, the kind the skill flags as his strongest ground. Reserve Health's primary in-house content creator: writes and edits original stories, newsletters, and web content, while also shooting and editing professional photography and video and conducting interviews with staff and community partners — one person owning writing, photography, videography, and social media together. The bachelor's degree requirement explicitly lists journalism as qualifying, which lines up directly with his ECU degree, and his video/interview background covers the multimedia half. Full-time, $75,000/year, Charlotte-based. Verified open on Indeed today with a live 'Apply with Indeed' button."
     }
   ],
   "inProgress": [
