@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T22:30:00-04:00",
+  "lastUpdated": "2026-07-25T21:45:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -538,25 +538,6 @@
       "blurb": "Writing/freelance lane — a live search of Upwork's current writing gig postings (blog and content writing, interview-driven storytelling pieces, video scriptwriting, and more), refreshed constantly, mirroring the freelance video-editing search already on this board. Requires a free Upwork profile to submit proposals. A natural complement to his ECU journalism background if he wants freelance writing work on the side or between full-time applications."
     },
     {
-      "id": "unc-charlotte-esports-media-assistant-director",
-      "title": "Assistant Director for Esports Media",
-      "company": "UNC Charlotte",
-      "location": "Charlotte, NC",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=bb09e5fddc74fba0",
-      "source": "Indeed",
-      "dateFirstSeen": "2026-07-20",
-      "dateLastConfirmed": "2026-07-21",
-      "isNew": false,
-      "salary": "$54,249–$58,746/yr",
-      "whyFits": [
-        "Leads all video/photo/social content for a media operation",
-        "Streaming broadcast, VOD editing, social & graphic design",
-        "Bachelor's degree only hard requirement",
-        "Mostly remote, occasional on-campus work"
-      ],
-      "blurb": "General video-editing/content-production lane — leads all Charlotte Esports media: streaming broadcast operations, social channels, photography, videography, VOD editing, and graphic design for the university's competitive esports program. A bachelor's degree is the only hard requirement; prior esports-specific experience is preferred, not required, and the broad shoot-edit-publish-brand scope lines up well with Brendan's skillset even though esports is a new subject-matter niche for him rather than traditional sports. Verified open on Indeed today with a live 'Apply on company site' button; note the posting closes 2026-07-24, so it needs quick action."
-    },
-    {
       "id": "wbtv-photojournalist",
       "title": "Photojournalist",
       "company": "WBTV (Gray Media)",
@@ -811,8 +792,8 @@
       "applyUrl": "https://www.indeed.com/viewjob?jk=3af5853b4bf29af3",
       "source": "Indeed",
       "dateFirstSeen": "2026-07-23",
-      "dateLastConfirmed": "2026-07-23",
-      "isNew": true,
+      "dateLastConfirmed": "2026-07-25",
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane at Bank of America Stadium",
@@ -916,6 +897,44 @@
         "Full-time, Charlotte-based, real salary"
       ],
       "blurb": "A genuine both-lanes-at-once match, the kind the skill flags as his strongest ground. Reserve Health's primary in-house content creator: writes and edits original stories, newsletters, and web content, while also shooting and editing professional photography and video and conducting interviews with staff and community partners — one person owning writing, photography, videography, and social media together. The bachelor's degree requirement explicitly lists journalism as qualifying, which lines up directly with his ECU degree, and his video/interview background covers the multimedia half. Full-time, $75,000/year, Charlotte-based. Verified open on Indeed today with a live 'Apply with Indeed' button."
+    },
+    {
+      "id": "wcnc-tegna-producer",
+      "title": "Producer",
+      "company": "WCNC-TV (TEGNA)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://job-boards.greenhouse.io/tegnainc/jobs/5053867007",
+      "source": "TEGNA Careers (Greenhouse)",
+      "dateFirstSeen": "2026-07-25",
+      "dateLastConfirmed": "2026-07-25",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Writing/journalism lane — linear newscast producer",
+        "1-3 yrs producing experience preferred, not required",
+        "Writes for broadcast, streaming, digital & social",
+        "Stretch — his broadcast time was production assistant, not producer"
+      ],
+      "blurb": "Writing/journalism lane, and a genuine stretch worth naming honestly. WCNC-TV (TEGNA's NBC affiliate in Charlotte) wants a linear news producer to lead daily newscasts and streaming shows — building rundowns, pitching community-centered stories, and writing across broadcast, streaming, digital, and social platforms. Wants 1-3 years of producing experience or equivalent newsroom experience with strong show ownership; Brendan's broadcast years were as a production assistant cutting packages at FOX Sports rather than ordering/producing a newscast, so this is a step up in scope even though the writing and live-newsroom environment overlap with his skills. Sits alongside the WBTV Digital Content News Producer and Photojournalist roles already on this board as another local-TV newsroom entry point. Verified open on TEGNA's own Greenhouse careers site today with a live Apply button."
+    },
+    {
+      "id": "renu-energy-creative-digital-content-manager",
+      "title": "Creative & Digital Content Manager",
+      "company": "ReNu Energy Solutions",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/cmp/Renu-Energy-Solutions/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-07-25",
+      "dateLastConfirmed": "2026-07-25",
+      "isNew": true,
+      "salary": "$70,000–$85,000/yr",
+      "whyFits": [
+        "Adobe Premiere Pro/Photoshop/Illustrator/InDesign",
+        "5+ yrs experience required, matches his tenure",
+        "Shoots short-form video, drone footage & photography",
+        "Full-time, in-office Charlotte HQ, real salary"
+      ],
+      "blurb": "General video-editing/content-marketing lane — ReNu Energy Solutions (a Charlotte-based residential and commercial solar installer) wants a hands-on creative to build marketing content across web, digital ads, social, and email, including shooting and editing short-form video, drone footage, and photography in Adobe Creative Suite. Wants 5+ years of creative marketing/digital design experience, a clean match for his tenure, though it's product/brand marketing for a solar company rather than sports or media. Full-time, in-office at their Charlotte HQ, $70,000-$85,000/year — one of the stronger salaries on this board. Verified open on Indeed today; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via ReNu Energy Solutions' Indeed company jobs page — look for \"Creative & Digital Content Manager.\""
     }
   ],
   "inProgress": [
