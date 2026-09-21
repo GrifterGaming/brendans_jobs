@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T21:30:00-04:00",
+  "lastUpdated": "2026-09-20T15:45:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -15,7 +15,7 @@
       "source": "RFK Racing (via Racer Jobs, the employer's own designated career board)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane — NASCAR Cup Series team (Concord, NC)",
@@ -34,7 +34,7 @@
       "source": "TeamWork Online",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane — produces Panthers Long-Form shows, Mic'd Up, player features",
@@ -53,7 +53,7 @@
       "source": "NASCAR Careers (Workday)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane — NASCAR's flagship YouTube channel",
@@ -72,7 +72,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Genuine mix of both lanes — scriptwriting AND video production in one role",
@@ -91,7 +91,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": "$75,000–$85,000/yr",
       "whyFits": [
         "Social-media-marketing lane, real salary",
@@ -129,7 +129,7 @@
       "source": "Indeed (search)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": "$35+/hr",
       "whyFits": [
         "Local freelance/contract lane",
@@ -148,7 +148,7 @@
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": "$100,000–$130,000/yr",
       "whyFits": [
         "Fully-remote, full-time role (remote category)",
@@ -167,7 +167,7 @@
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-09-18",
       "dateLastConfirmed": "2026-09-18",
-      "isNew": true,
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Writing/journalism lane — builds and writes live newscasts",
@@ -195,6 +195,82 @@
         "Stretch — wants 3+ yrs TV news reporting"
       ],
       "blurb": "Writing/journalism lane, and the role shape Brendan is built for — an MMJ owns pitching, writing, shooting, interviewing, and editing on every story, which is exactly the video-plus-journalism combination on his resume and genuinely rare in one candidate. The Broadcast Journalism/Communications degree requirement fits his ECU degree. The honest stretch: it asks for 3+ years of television news reporting, and his broadcast time at FOX Sports was as a production assistant cutting packages rather than reporting. Verified open on Spectrum's own careers site today (req 2026-74007) with a live Apply Now button."
+    },
+    {
+      "id": "whitewater-center-photographer-videographer",
+      "title": "Photographer/Videographer",
+      "company": "U.S. National Whitewater Center",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=8412ec45b7d8ab16",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-09-20",
+      "dateLastConfirmed": "2026-09-20",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "General video-editing lane — leads all photo/video capture for the Whitewater brand",
+        "3+ yrs photography/videography/design experience required, matches his tenure",
+        "Adobe Creative Suite required",
+        "On-site, full-time, benefits-eligible — local Charlotte outdoor-recreation brand"
+      ],
+      "blurb": "General video-editing lane, and a local Charlotte employer outside sports/broadcast — the U.S. National Whitewater Center wants a Photographer/Videographer to lead capture, production, and development of all visual content for the Whitewater brand across marketing and advertising channels, including event coverage and social/digital deliverables. Wants a bachelor's degree in Marketing, Media, or Communications plus 3+ years of photography/videography/design experience and Adobe Creative Suite proficiency, matching his tenure and toolset even though the subject matter (outdoor recreation events) is a step outside sports/broadcast. On-site, full-time, benefits-eligible role at the Whitewater Center's Charlotte campus. Verified open on Indeed today with a live 'Apply with Indeed' listing and a stable job link (not a rotating tracking link)."
+    },
+    {
+      "id": "agency-marketing-group-freelance-videographer-editor",
+      "title": "Freelance Videographer/Editor",
+      "company": "The Agency Marketing Group",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/cmp/The-Agency-Marketing-Group/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-09-20",
+      "dateLastConfirmed": "2026-09-20",
+      "isNew": true,
+      "salary": "$300–$1,500/day",
+      "whyFits": [
+        "Local freelance/contract lane — notably better day rate than the other freelance listing on this board",
+        "Premiere Pro, Final Cut Pro, After Effects — matches his exact toolset",
+        "Includes podcast recording (lighting, mics, 2 cameras) — matches his TecSpertz podcast background",
+        "In-person, Charlotte-based"
+      ],
+      "blurb": "A second Charlotte-based freelance lane option, and a stronger day rate than the MilanX gig already on this board — The Agency Marketing Group wants a freelance videographer/editor to shoot and edit polished content across diverse projects, from planning and filming through post (color, motion graphics, sound). Notably asks for lighting, microphones, and a two-camera setup for podcast recording specifically, a direct line to his TecSpertz podcast-production experience at ECU, on top of his Premiere Pro/After Effects skillset. Pay: $300–$1,500 per day, in-person in Charlotte. Verified open on Indeed today; it's a sponsored/Easily-Apply post with a rotating tracking link, so linked via The Agency Marketing Group's Indeed company jobs page — look for 'Freelance Videographer/Editor.'"
+    },
+    {
+      "id": "scout-motors-corporate-storyteller",
+      "title": "Specialist, Corporate Storyteller",
+      "company": "Scout Motors",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/cmp/Scout-Motors/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-09-20",
+      "dateLastConfirmed": "2026-09-20",
+      "isNew": true,
+      "salary": "$85,000–$105,000/yr",
+      "whyFits": [
+        "Writing/PR lane — corporate communications, copywriting, video scripts, executive messaging",
+        "Journalism explicitly listed as a qualifying degree field",
+        "Video production/digital content collaboration listed as a preferred plus",
+        "Stretch — wants 4+ yrs of professional writing experience, a step beyond his college-era editorial run"
+      ],
+      "blurb": "Writing/PR lane, real salary, and an honest stretch. Scout Motors — the revived, Charlotte-HQ'd electric SUV/truck brand — wants a Corporate Storyteller Specialist to write executive messaging, video scripts, internal communications, and external brand content (blogs, social copy, digital ads) across the company. The degree requirement explicitly lists Journalism alongside Communications/English/Marketing/PR, a direct line to his ECU degree, and experience collaborating with video production/digital content teams is called out as a preferred plus, which plays to his production background even though the role itself is a writing seat. The honest gap: it wants 4+ years of professional writing experience in corporate comms, copywriting, or journalism, and his professional years since 2023 have been video (PBR/FOX Sports), not paid writing — his strongest writing credential is the 4-year, college-era Sports Editor run at The East Carolinian. Charlotte HQ, mostly in-office (4-5 days/week), $85,000–$105,000/year. Verified open on Indeed today; it's an Easily-Apply post with a rotating tracking link, so linked via Scout Motors' Indeed company jobs page — look for 'Specialist, Corporate Storyteller.'"
+    },
+    {
+      "id": "usa-today-content-creator-sports-remote",
+      "title": "Content Creator, Sports",
+      "company": "USA TODAY Co.",
+      "location": "Remote (US, excluding AK/HI/WY)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=1c97eacb00b6c04f",
+      "source": "Indeed",
+      "dateFirstSeen": "2026-09-20",
+      "dateLastConfirmed": "2026-09-20",
+      "isNew": true,
+      "salary": "$25.48–$39.42/hr",
+      "whyFits": [
+        "Genuine both-lanes match — sports content creation across video, social, and newsletters",
+        "Journalism degree/education explicitly required, sports-specific experience required",
+        "Comfortable on camera, video editing (Premiere) listed among the tools",
+        "Fully remote, national publisher (Gannett/USA TODAY Network)"
+      ],
+      "blurb": "Fully remote, and one of the best both-lanes-at-once matches on this board. USA TODAY is hiring a Content Creator to amplify its Sports journalism across the site, app, social platforms (TikTok, Instagram, YouTube, Reddit), and newsletters — on-camera personality-driven storytelling, video editing, and writing/curation all in one seat, not a traditional producer or social-management role. Requires a bachelor's degree in journalism/communications/PR or equivalent, 3+ years of experience, and explicitly states 'journalism experience or education is mandatory, as is sports specific experience' — his ECU journalism concentration plus four years running The East Carolinian's sports section and hosting TecSpertz covers both bars directly, on top of his PBR/FOX Sports video background and Premiere Pro skills (listed among the required tools). Fully remote anywhere in the US except AK/HI/WY, $25.48–$39.42/hour. Verified open on Indeed today via a stable 'Apply on company site' listing routing to USA TODAY Co.'s own Dayforce careers site — no rotating tracking link."
     }
   ],
   "inProgress": [
