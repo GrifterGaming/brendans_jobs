@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-09-21T02:15:00-04:00",
+  "lastUpdated": "2026-09-22T02:15:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
     "title": "Sports & Broadcast Video Editor / Journalist"
   },
   "jobs": [
+    {
+      "id": "usatoday-content-creator-sports-remote-v2",
+      "title": "Content Creator, Sports",
+      "company": "USA TODAY Co.",
+      "location": "Remote (US, excl. AK/HI/WY)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=1c97eacb00b6c04f",
+      "source": "Indeed (direct listing, apply on company site)",
+      "dateFirstSeen": "2026-09-22",
+      "dateLastConfirmed": "2026-09-22",
+      "isNew": true,
+      "salary": "$25.48–$39.42/hr",
+      "whyFits": [
+        "Both-lanes-at-once — video, social, and sports writing in one role",
+        "Journalism experience/education explicitly mandatory, plus sports-specific experience",
+        "At least one video required in the application portfolio",
+        "Fully remote, US-based (except AK/HI/WY)"
+      ],
+      "blurb": "Video + writing/journalism lane, combined in a single role, and fully remote — USA TODAY wants a Content Creator to amplify its Sports journalism across the site, app, social platforms, and newsletters, building a personality-driven, on-camera presence across Instagram, TikTok, YouTube, and Reddit. Requires a bachelor's degree in journalism/communications or equivalent experience, 3+ years of experience with journalism education/experience and sports-specific experience both explicitly mandatory, and the application itself requires at least one video work sample alongside a resume and cover letter — a direct test of exactly the shoot-write-edit combination Brendan brings from ECU and PBR/FOX Sports. Note: an earlier USA TODAY 'Content Creator, Sports' req was dropped from this board yesterday as expired; this is a freshly reposted opening (posted September 16, 2026), re-verified live and distinct from that one. $25.48-$39.42/hour, remote anywhere in the US except Alaska, Hawaii, and Wyoming. Verified open on Indeed today with a direct 'Apply on company site' listing (not sponsored/rotating)."
+    },
+    {
+      "id": "rfk-racing-digital-content-manager",
+      "title": "Digital Content Manager",
+      "company": "RFK Racing",
+      "location": "Concord, NC",
+      "applyUrl": "https://www.indeed.com/cmp/Rfk-Racing/jobs",
+      "source": "Indeed (company jobs page)",
+      "dateFirstSeen": "2026-09-22",
+      "dateLastConfirmed": "2026-09-22",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Sports/broadcast lane — third distinct RFK Racing content opening on this board",
+        "3+ yrs professional content creation required, matches his tenure",
+        "Adobe Premiere Pro/Photoshop/Lightroom/After Effects, same toolset as his resume",
+        "Motorsports experience explicitly listed as a qualification"
+      ],
+      "blurb": "Sports/broadcast video lane — a third RFK Racing opening on this board alongside the Multimedia Specialist role already here. RFK wants a Digital Content Manager to create photo, video, and digital content that captures race weekends and the personalities behind the team, reporting to the Director of Digital and collaborating with the Creative Director across Marketing, Communications, Partnerships, and Competition. Wants 3+ years of professional content creation/photography/videography/multimedia production experience, a strong portfolio, Adobe Creative Cloud proficiency (Premiere Pro, Photoshop, Lightroom, After Effects), and explicitly lists motorsports experience as a qualification — a clean match for Brendan's motorsports-market video background and toolset, requires 75% travel willingness. Verified open on Indeed today; it's an Easily-Apply post with a rotating tracking link, so linked via RFK Racing's Indeed company jobs page — look for 'Digital Content Manager.'"
+    },
     {
       "id": "rfk-racing-multimedia-specialist",
       "title": "Multimedia Specialist",
