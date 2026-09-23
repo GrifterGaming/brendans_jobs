@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T02:15:00-04:00",
+  "lastUpdated": "2026-09-23T02:30:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -30,38 +30,19 @@
       "title": "Digital Content Manager",
       "company": "RFK Racing",
       "location": "Concord, NC",
-      "applyUrl": "https://www.indeed.com/cmp/Rfk-Racing/jobs",
-      "source": "Indeed (company jobs page)",
-      "dateFirstSeen": "2026-09-22",
-      "dateLastConfirmed": "2026-09-22",
-      "isNew": true,
-      "salary": null,
-      "whyFits": [
-        "Sports/broadcast lane — third distinct RFK Racing content opening on this board",
-        "3+ yrs professional content creation required, matches his tenure",
-        "Adobe Premiere Pro/Photoshop/Lightroom/After Effects, same toolset as his resume",
-        "Motorsports experience explicitly listed as a qualification"
-      ],
-      "blurb": "Sports/broadcast video lane — a third RFK Racing opening on this board alongside the Multimedia Specialist role already here. RFK wants a Digital Content Manager to create photo, video, and digital content that captures race weekends and the personalities behind the team, reporting to the Director of Digital and collaborating with the Creative Director across Marketing, Communications, Partnerships, and Competition. Wants 3+ years of professional content creation/photography/videography/multimedia production experience, a strong portfolio, Adobe Creative Cloud proficiency (Premiere Pro, Photoshop, Lightroom, After Effects), and explicitly lists motorsports experience as a qualification — a clean match for Brendan's motorsports-market video background and toolset, requires 75% travel willingness. Verified open on Indeed today; it's an Easily-Apply post with a rotating tracking link, so linked via RFK Racing's Indeed company jobs page — look for 'Digital Content Manager.'"
-    },
-    {
-      "id": "rfk-racing-multimedia-specialist",
-      "title": "Multimedia Specialist",
-      "company": "RFK Racing",
-      "location": "Concord, NC",
-      "applyUrl": "https://www.racerjobs.com/jobs/595927424-multimedia-specialist-at-rfk-racing",
+      "applyUrl": "https://www.racerjobs.com/jobs/603522983-digital-content-manager-at-rfk-racing",
       "source": "RFK Racing (via Racer Jobs, the employer's own designated career board)",
-      "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateFirstSeen": "2026-09-22",
+      "dateLastConfirmed": "2026-09-23",
       "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane — NASCAR Cup Series team (Concord, NC)",
-        "Adobe Premiere Pro/Photoshop/Lightroom/After Effects",
-        "Shoots and edits photo, video, motion graphics for race-week content",
-        "3+ yrs professional content creation required, matches his tenure"
+        "3+ yrs professional content creation required, matches his tenure",
+        "Adobe Premiere Pro/Photoshop/Lightroom/After Effects, same toolset as his resume",
+        "Motorsports experience explicitly listed as a qualification"
       ],
-      "blurb": "Sports/broadcast video lane — RFK Racing (the NASCAR Cup Series team co-owned by Brad Keselowski and Jack Roush) wants a Multimedia Specialist to capture and edit photo, video, and digital content that captures race weekends and showcases the team's drivers and personalities, working across social-first and cinematic/documentary styles. Wants 3+ years of professional content creation/photography/videography experience and strong Adobe Creative Cloud skills (Premiere Pro, Photoshop, Lightroom, After Effects), a clean match for Brendan's motorsports-market video background — a second, more production-focused RFK Racing opening alongside the Multimedia Lead role previously covered on this board (that req has since closed). Posted September 11, 2026; verified open today directly on RFK Racing's own designated career board with a live 'Apply to this Job' listing."
+      "blurb": "Sports/broadcast video lane — RFK Racing's only open content role right now (the separate Multimedia Specialist req that was on this board has come down). RFK wants a Digital Content Manager to create photo, video, and digital content that captures race weekends and the personalities behind the team, reporting to the Director of Digital and collaborating with the Creative Director across Marketing, Communications, Partnerships, and Competition. Wants 3+ years of professional content creation/photography/videography/multimedia production experience, a strong portfolio, Adobe Creative Cloud proficiency (Premiere Pro, Photoshop, Lightroom, After Effects), and explicitly lists motorsports experience as a qualification — a clean match for Brendan's motorsports-market video background and toolset, requires 75% travel willingness. Posted September 21, 2026; verified open today directly on RFK Racing's own designated career board (Racer Jobs) with a live 'Apply to this Job' button."
     },
     {
       "id": "panthers-producer-editor",
@@ -90,7 +71,7 @@
       "applyUrl": "https://nascar.wd1.myworkdayjobs.com/en-US/NASCAR/job/Senior-Coordinator--YouTube-Race-Operations---Live-Content_JR14371",
       "source": "NASCAR Careers (Workday)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-23",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -147,7 +128,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-Promotion-Producer-WSOC-TV-Telemundo-NC-28206/1362987400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-07-02",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-23",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -204,7 +185,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-News-Producer-WSOC-TV-Charlotte-NC-28206/1400951400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-23",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -223,7 +204,7 @@
       "applyUrl": "https://jobs.spectrum.com/job/charlotte/multimedia-journalist-spectrum-news-1/4673/94753354608",
       "source": "Spectrum Careers (company site)",
       "dateFirstSeen": "2026-07-17",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-23",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -299,8 +280,8 @@
       "applyUrl": "https://hendrick.wd5.myworkdayjobs.com/en-US/HMSCareers/job/Hendrick-Motorsports/Content-Creator_R-79291-1",
       "source": "Hendrick Motorsports Careers (Workday)",
       "dateFirstSeen": "2026-09-21",
-      "dateLastConfirmed": "2026-09-21",
-      "isNew": true,
+      "dateLastConfirmed": "2026-09-23",
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Sports/broadcast lane — Hendrick Motorsports, NASCAR's most decorated Cup Series team",
@@ -328,6 +309,44 @@
         "Concord, NC (Charlotte metro), outside sports/broadcast but a solid toolset match"
       ],
       "blurb": "General video-editing lane — DNP Imagingcomm America (a Concord, NC-based photo-imaging manufacturer) wants a Video Content Creator to own brand video from concept and scripting through shooting, editing, and adapting it for YouTube, Instagram, LinkedIn, TikTok, and the company website. Wants 2+ years of video production/content creation experience, a lighter bar than most postings on this board, plus strong storytelling and editing skills — an accessible match for Brendan's toolset even though the subject matter (corporate/consumer photo-imaging brand) sits outside sports/broadcast. $24-$25/hour, based in Concord, NC (Charlotte metro). Verified open on Indeed today; it's an Easily-Apply post with a rotating tracking link, so linked via DNP Imagingcomm's Indeed company jobs page — look for 'Video Content Creator.'"
+    },
+    {
+      "id": "wbtv-digital-content-news-producer",
+      "title": "Digital Content News Producer",
+      "company": "Gray Media (WBTV)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=5579252a-fcdb-4980-810a-1e4d33979b0f",
+      "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
+      "dateFirstSeen": "2026-09-23",
+      "dateLastConfirmed": "2026-09-23",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Writing/journalism + social lane — report, write, and publish news daily in AP style",
+        "Publishes across WBTV.com, apps, YouTube, and every major social platform",
+        "Journalism degree and 4 yrs running a newspaper sports section speak directly to the copyediting/news-judgment asks",
+        "Local CBS affiliate in Charlotte, full-time"
+      ],
+      "blurb": "Writing/journalism lane with a social-media side — WBTV (Gray Media's CBS station in Charlotte) wants a Digital Content Producer to report, write, and publish news stories every day, pitch original digital angles, adapt headlines for each platform, and publish across WBTV.com, the station's apps, YouTube, and all the major social platforms, plus some copyediting of other people's stories. Wants 3–5 years of digital content production in a newsroom or similar setting, strong AP-style writing, copyediting skills, news judgment, and SEO/analytics familiarity. A fair stretch for Brendan: his editorial experience is four years as Sports Editor of The East Carolinian (college, ended May 2023) plus a journalism degree, not professional newsroom bylines, but his social-first video work covers the platform side well. This is general news, not sports. The req has been up since March 2026 but is still listed in Gray's active search with a working 'Apply now' button, verified today on Gray's own job board."
+    },
+    {
+      "id": "wbtv-photojournalist",
+      "title": "Photojournalist",
+      "company": "Gray Media (WBTV)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=e8906895-10f4-46f4-965e-19d991779abb",
+      "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
+      "dateFirstSeen": "2026-09-23",
+      "dateLastConfirmed": "2026-09-23",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Broadcast video lane — shoot, interview, and edit for broadcast and digital",
+        "Live shots and field production, matching his live/multi-cam broadcast background",
+        "2+ yrs broadcast experience asked; he has 5 yrs of video incl. FOX Sports/PBR",
+        "Full-time, hourly, Charlotte-based"
+      ],
+      "blurb": "Broadcast video lane (news, not sports) — WBTV wants a News Photographer to gather video, conduct interviews, edit for broadcast and digital, and run live shots for breaking news; running ENG/satellite trucks is a plus. Asks for at least 2 years as a broadcast news photojournalist. Brendan's field production, live broadcast, and Premiere Pro editing from PBR/FOX Sports carry over directly, but his experience is sports and entertainment rather than a local news desk, so expect to frame that in the cover letter. Full-time hourly with overnights, weekends, and holidays possible. Posted July 13, 2026; verified open today on Gray Media's own job board with a live 'Apply now' button."
     }
   ],
   "inProgress": [
