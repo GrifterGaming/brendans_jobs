@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T02:30:00-04:00",
+  "lastUpdated": "2026-09-24T02:30:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
@@ -14,8 +14,8 @@
       "applyUrl": "https://www.indeed.com/viewjob?jk=1c97eacb00b6c04f",
       "source": "Indeed (direct listing, apply on company site)",
       "dateFirstSeen": "2026-09-22",
-      "dateLastConfirmed": "2026-09-22",
-      "isNew": true,
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": false,
       "salary": "$25.48–$39.42/hr",
       "whyFits": [
         "Both-lanes-at-once — video, social, and sports writing in one role",
@@ -33,7 +33,7 @@
       "applyUrl": "https://www.racerjobs.com/jobs/603522983-digital-content-manager-at-rfk-racing",
       "source": "RFK Racing (via Racer Jobs, the employer's own designated career board)",
       "dateFirstSeen": "2026-09-22",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -71,7 +71,7 @@
       "applyUrl": "https://nascar.wd1.myworkdayjobs.com/en-US/NASCAR/job/Senior-Coordinator--YouTube-Race-Operations---Live-Content_JR14371",
       "source": "NASCAR Careers (Workday)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -90,7 +90,7 @@
       "applyUrl": "https://www.indeed.com/cmp/Lowes/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -102,25 +102,6 @@
       "blurb": "A genuine both-lanes-at-once match. Lowe's corporate Communications team wants someone to develop internal-communications video from concept and scriptwriting through filming, editing, and final delivery, translating complex business priorities into video stories for employees — writing and video ownership in the same role. The degree requirement explicitly lists Journalism as qualifying alongside Communications/Media Production, a direct line to his ECU degree, and 3 years of experience in communications/video production is preferred, matching his tenure. Not sports/media — this is Lowe's Fortune 100 HQ in Mooresville — and a different, net-new req from the Creative Designer role already in Brendan's in-progress pipeline. Verified open on Indeed today with a live 'Apply on company site' button; it's a rotating tracking link, so linked via Lowe's Indeed company jobs page — look for 'Communications Analyst, Video Production.'"
     },
     {
-      "id": "acbj-hemmings-social-media-manager",
-      "title": "Social Media Manager (Hemmings)",
-      "company": "American City Business Journals (Hemmings brand)",
-      "location": "Charlotte, NC",
-      "applyUrl": "https://www.indeed.com/cmp/Acbj/jobs",
-      "source": "Indeed (company jobs page)",
-      "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
-      "isNew": false,
-      "salary": "$75,000–$85,000/yr",
-      "whyFits": [
-        "Social-media-marketing lane, real salary",
-        "5+ yrs social media management required, matches his tenure",
-        "Social-first video (Reels/TikTok/Shorts) is core to the role",
-        "Enthusiast/automotive content — adjacent to his motorsports background"
-      ],
-      "blurb": "Social-media-marketing lane, and one of the better-paid options on this board — American City Business Journals (parent of the Charlotte Business Journal, also on this board) wants a Social Media Manager for its Hemmings classic-car enthusiast brand, owning channel strategy, content calendar, and social-first video across Instagram Reels, TikTok, and YouTube Shorts, plus writing platform-specific copy. Wants 5+ years of social media/digital marketing experience, matching his tenure closely, and lists knowledge of classic/collector/performance vehicles as a strong preference — a genuine adjacency to his NASCAR/motorsports-market video background even though this is enthusiast automotive rather than sports. Based in Charlotte, $75,000-$85,000/year. Verified open on Indeed today; linked via ACBJ's Indeed company jobs page since it's an 'Apply with Indeed' listing — look for 'Social Media Manager' (Hemmings)."
-    },
-    {
       "id": "cmg-wsoc-promotion-producer",
       "title": "Promotion Producer (WSOC-TV Telemundo)",
       "company": "Cox Media Group",
@@ -128,7 +109,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-Promotion-Producer-WSOC-TV-Telemundo-NC-28206/1362987400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-07-02",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -147,7 +128,7 @@
       "applyUrl": "https://www.indeed.com/jobs?q=MilanX+Productions&l=Charlotte%2C+NC",
       "source": "Indeed (search)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": "$35+/hr",
       "whyFits": [
@@ -166,7 +147,7 @@
       "applyUrl": "https://www.indeed.com/cmp/Dexerto.com/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": "$100,000–$130,000/yr",
       "whyFits": [
@@ -185,7 +166,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-News-Producer-WSOC-TV-Charlotte-NC-28206/1400951400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -204,7 +185,7 @@
       "applyUrl": "https://jobs.spectrum.com/job/charlotte/multimedia-journalist-spectrum-news-1/4673/94753354608",
       "source": "Spectrum Careers (company site)",
       "dateFirstSeen": "2026-07-17",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -223,7 +204,7 @@
       "applyUrl": "https://www.indeed.com/viewjob?jk=8412ec45b7d8ab16",
       "source": "Indeed",
       "dateFirstSeen": "2026-09-20",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -242,7 +223,7 @@
       "applyUrl": "https://www.indeed.com/cmp/The-Agency-Marketing-Group/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-20",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": "$300–$1,500/day",
       "whyFits": [
@@ -261,7 +242,7 @@
       "applyUrl": "https://www.indeed.com/cmp/Scout-Motors/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-20",
-      "dateLastConfirmed": "2026-09-21",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": "$85,000–$105,000/yr",
       "whyFits": [
@@ -280,7 +261,7 @@
       "applyUrl": "https://hendrick.wd5.myworkdayjobs.com/en-US/HMSCareers/job/Hendrick-Motorsports/Content-Creator_R-79291-1",
       "source": "Hendrick Motorsports Careers (Workday)",
       "dateFirstSeen": "2026-09-21",
-      "dateLastConfirmed": "2026-09-23",
+      "dateLastConfirmed": "2026-09-24",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -299,8 +280,8 @@
       "applyUrl": "https://www.indeed.com/cmp/Dnp-Imagingcomm-America-Corporation/jobs",
       "source": "Indeed (company jobs page)",
       "dateFirstSeen": "2026-09-21",
-      "dateLastConfirmed": "2026-09-21",
-      "isNew": true,
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": false,
       "salary": "$24–$25/hr",
       "whyFits": [
         "General video-editing lane — owns brand video from concept through final edit",
@@ -318,8 +299,8 @@
       "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=5579252a-fcdb-4980-810a-1e4d33979b0f",
       "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
       "dateFirstSeen": "2026-09-23",
-      "dateLastConfirmed": "2026-09-23",
-      "isNew": true,
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Writing/journalism + social lane — report, write, and publish news daily in AP style",
@@ -337,8 +318,8 @@
       "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=e8906895-10f4-46f4-965e-19d991779abb",
       "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
       "dateFirstSeen": "2026-09-23",
-      "dateLastConfirmed": "2026-09-23",
-      "isNew": true,
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": false,
       "salary": null,
       "whyFits": [
         "Broadcast video lane — shoot, interview, and edit for broadcast and digital",
@@ -347,6 +328,44 @@
         "Full-time, hourly, Charlotte-based"
       ],
       "blurb": "Broadcast video lane (news, not sports) — WBTV wants a News Photographer to gather video, conduct interviews, edit for broadcast and digital, and run live shots for breaking news; running ENG/satellite trucks is a plus. Asks for at least 2 years as a broadcast news photojournalist. Brendan's field production, live broadcast, and Premiere Pro editing from PBR/FOX Sports carry over directly, but his experience is sports and entertainment rather than a local news desk, so expect to frame that in the cover letter. Full-time hourly with overnights, weekends, and holidays possible. Posted July 13, 2026; verified open today on Gray Media's own job board with a live 'Apply now' button."
+    },
+    {
+      "id": "acbj-charlotte-business-journal-reporter",
+      "title": "Reporter",
+      "company": "American City Business Journals (Charlotte Business Journal)",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=4ca5db9ecc6172ff",
+      "source": "Indeed (direct listing)",
+      "dateFirstSeen": "2026-09-24",
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": true,
+      "salary": null,
+      "whyFits": [
+        "Writing/journalism lane — report and write short- and long-form stories on an owned beat",
+        "Bachelor's degree or equivalent experience — no minimum years listed, an accessible bar",
+        "Multimedia skills (video, photo, on-camera) called out as helpful",
+        "Charlotte newsroom, full-time"
+      ],
+      "blurb": "Writing/journalism lane — the Charlotte Business Journal (ACBJ) wants a Reporter to own a beat, break source-driven exclusives, and write short- and long-form stories for the website, daily emails, and the weekly print edition. The listed bar is a bachelor's degree or equivalent experience plus solid news-writing, interviewing, and ethics fundamentals — no minimum years of professional experience — which makes this one of the more accessible newsroom seats in Charlotte for someone with his journalism degree and four years running The East Carolinian's sports section. Multimedia skills (video, photos, on-camera) are called out as a plus, a nice bridge to his video work. Honest caveat: it's business news, not sports, and it's source-heavy beat reporting where he'd be building professional clips from scratch. Verified open on Indeed today with a live 'Apply now' button and a stable job link. (Note: ACBJ's Hemmings Social Media Manager req that was on this board has come down.)"
+    },
+    {
+      "id": "momentum-digital-creative-strategist-videographer",
+      "title": "Creative Strategist & Videographer",
+      "company": "Momentum Digital Marketing",
+      "location": "Charlotte, NC (on the road locally)",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=8e80fb715b9574c7",
+      "source": "Indeed (direct listing; application via the employer's linked form)",
+      "dateFirstSeen": "2026-09-24",
+      "dateLastConfirmed": "2026-09-24",
+      "isNew": true,
+      "salary": "$40,000–$60,000/yr",
+      "whyFits": [
+        "Social media marketing + video lane — concept, script, shoot short-form social video",
+        "Writes content concepts and scripts, not just camera work",
+        "Talking-head/interview and B-roll shooting matches his field-production background",
+        "Lower pay than most listings here — agency role serving local small businesses"
+      ],
+      "blurb": "Social media marketing + video lane, with a writing component — Momentum, a Charlotte agency that makes social content and ads for local service businesses, wants a Creative Strategist & Videographer to come up with content ideas, write scripts and shot lists for short-form vertical video, lead client shoots around Charlotte (talking-head, interview, B-roll, photos), direct people on camera, and coordinate freelance videographers in other markets. Asks for professional videography/content experience and a feel for short-form social — a fair match for his social-first video work and interview experience. Honest caveats: $40,000–$60,000 is below most roles on this board, the subject matter is local small-business marketing rather than sports, and the posting leans on shooting and directing more than editing. Sony camera experience preferred. Verified open on Indeed today with a live 'Apply now' button; the listing sends applicants to the employer's own application form."
     }
   ],
   "inProgress": [
