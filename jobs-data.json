@@ -1,11 +1,49 @@
 {
-  "lastUpdated": "2026-10-05T04:43:44-04:00",
+  "lastUpdated": "2026-10-06T04:45:00-04:00",
   "market": "Charlotte, NC",
   "candidate": {
     "name": "Brendan Cavazos",
     "title": "Sports & Broadcast Video Editor / Journalist"
   },
   "jobs": [
+    {
+      "id": "royal-change-videographer-video-editor",
+      "title": "Videographer / Video Editor",
+      "company": "Royal Change",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473366119",
+      "source": "LinkedIn (live listing)",
+      "dateFirstSeen": "2026-10-06",
+      "dateLastConfirmed": "2026-10-06",
+      "isNew": true,
+      "salary": "Not listed",
+      "whyFits": [
+        "Video editing lane: full-time shoot-and-edit role for a Charlotte-HQ fitness brand",
+        "Daily long-form edits plus short-form social cut-downs, which matches his social-first work",
+        "Posted 13 hours ago with fewer than 25 applicants",
+        "Honest gap: wants deep fitness/instructional editing experience"
+      ],
+      "blurb": "Video editing lane, full-time and local. Royal Change, an online fitness, nutrition, and apparel company headquartered in Charlotte, wants a videographer/editor to film and cut daily long-form workout videos, educational segments, and brand campaigns, then repurpose them into short-form social clips. The posting stresses storytelling, pacing, captions, overlays, music, and clean file organization, and asks for a portfolio plus a short paid test project. His Premiere Pro and social-first video background fit the toolset and the long-to-short repurposing workflow. Honest caveats: it asks for years of experience specifically with fitness and instructional content, which he doesn't have, the pay isn't listed, and it's a brand-side job rather than sports. Verified open today on LinkedIn (posted 13 hours ago, fewer than 25 applicants) with a live Apply button."
+    },
+    {
+      "id": "samaritans-purse-digital-media-specialist",
+      "title": "Digital Media Specialist (Operation Christmas Child)",
+      "company": "Samaritan's Purse",
+      "location": "Charlotte, NC",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450513269",
+      "source": "LinkedIn (live listing)",
+      "dateFirstSeen": "2026-10-06",
+      "dateLastConfirmed": "2026-10-06",
+      "isNew": true,
+      "salary": "Not listed",
+      "whyFits": [
+        "Social media marketing lane with hands-on short-form video editing",
+        "Writes and proofreads engaging copy, which uses his journalism side",
+        "3-5 years of related experience asked; he has 5",
+        "Faith-based employer: personal faith and a statement of faith are required"
+      ],
+      "blurb": "Social media marketing lane, at a faith-based nonprofit. Samaritan's Purse wants a Digital Media Specialist for its Operation Christmas Child team to plan, schedule, and publish Christ-centered content across Facebook, X, Instagram, and YouTube, and to create and edit vertical videos, reels, stories, and graphics. The job also covers answering comments and messages, moderating Facebook groups, and weekly analytics reports, with the busy season around Christmas Child. It asks for a bachelor's degree and 3-5 years of related experience, strong writing and proofreading, and hands-on platform management. His social-first video work and journalism degree fit. Honest caveats: it requires an active personal faith and agreement with the organization's Statement of Faith, it's more community management and scheduling than pure video, and the pay isn't listed. Full-time with a full benefits package. Verified open today on LinkedIn (posted about two weeks ago, 145 applicants) with a live Apply button."
+    },
     {
       "id": "brightway-social-media-content-lead",
       "title": "Social Media & Content Lead",
@@ -14,8 +52,8 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4472180428",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-05",
-      "dateLastConfirmed": "2026-10-05",
-      "isNew": true,
+      "dateLastConfirmed": "2026-10-06",
+      "isNew": false,
       "salary": "Not listed",
       "whyFits": [
         "Social media marketing lane with real video work: film, edit, and publish short- and long-form content yourself",
@@ -33,8 +71,8 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4474145412",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-05",
-      "dateLastConfirmed": "2026-10-05",
-      "isNew": true,
+      "dateLastConfirmed": "2026-10-06",
+      "isNew": false,
       "salary": "Not listed",
       "whyFits": [
         "PR/comms writing lane: internal communications for a large grocery chain",
@@ -52,7 +90,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4472801729",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-04",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "About $70,000–$120,000/yr (range shown in posting)",
       "whyFits": [
@@ -71,7 +109,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4475037032",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-04",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "Not listed",
       "whyFits": [
@@ -90,7 +128,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4474371344",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-04",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "Not listed",
       "whyFits": [
@@ -109,7 +147,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4472908167",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-10-04",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "From $25/hr, plus paid travel",
       "whyFits": [
@@ -121,25 +159,6 @@
       "blurb": "Seasonal live-video lane, not a full-time job. DanceBUG films dance competitions around the country and is hiring videographers based near Charlotte for its February–June season. The work is running cameras and livestream gear at weekend events, usually traveling Thursday or Friday through Sunday or Monday. They provide the equipment, flights, hotels, rental cars, and training, and handle all editing themselves. Pay starts at $25 an hour with overtime, a guaranteed daily minimum, and paid travel days. They list sports, live events, broadcasting, multi-camera production, and livestreaming as the experience they want, which is exactly Brendan's PBR and FOX Sports background. Honest caveats: it's dance competitions rather than sports, it's seasonal, there's no editing, and it means most weekends on the road for five months. It could fill the gap alongside a job search or freelance work. Verified open today on LinkedIn (posted 3 days ago, fewer than 25 applicants) with a live Apply button."
     },
     {
-      "id": "judge-group-copywriter-contract",
-      "title": "Copywriter (contract)",
-      "company": "The Judge Group (staffing, for a financial services client)",
-      "location": "Charlotte, NC (hybrid)",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4471202947",
-      "source": "LinkedIn (live listing, posted by a staffing agency)",
-      "dateFirstSeen": "2026-10-04",
-      "dateLastConfirmed": "2026-10-05",
-      "isNew": false,
-      "salary": "$25–$35/hr (W-2 contract)",
-      "whyFits": [
-        "Copywriting lane — short emails, letters, web copy, and calls to action",
-        "High-volume deadline writing, similar to running a newspaper section",
-        "W-2 contract through the end of the year, with a chance to extend or convert",
-        "Honest gap — they prefer financial services or retirement writing experience"
-      ],
-      "blurb": "Copywriting lane, contract, and a moderate fit. The Judge Group, a staffing firm, is hiring copywriters for a financial services client to write communications for people in retirement and investment plans: letters, emails, web pages, educational pieces, and calls to action. It's short-form, high-volume work, about 10–12 pieces a day with several rounds of review, mixing original writing with updates to existing templates. They want clear, persuasive short writing, comfort with deadlines, and the ability to turn financial concepts into plain language. His journalism degree and four years editing The East Carolinian's sports section show deadline writing and editing. Honest caveats: they prefer experience writing about finance, banking, or retirement, which he doesn't have; it's a contract through the end of the year (possible extension or conversion), not a permanent job; and there's no video. Hybrid in Charlotte, $25–$35 an hour on W-2 with benefits available. Verified open today on LinkedIn (posted 6 days ago, fewer than 25 applicants) with a live Apply button."
-    },
-    {
       "id": "sbj-staff-writer-daily",
       "title": "Staff Writer, Daily",
       "company": "Sports Business Journal",
@@ -147,7 +166,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4466545018",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-09-30",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "Not listed",
       "whyFits": [
@@ -166,7 +185,7 @@
       "applyUrl": "https://www.teamworkonline.com/basketball-jobs/charlotte/charlotte-hornets/manager-of-communications-2191974",
       "source": "TeamWork Online (Hornets official posting)",
       "dateFirstSeen": "2026-09-29",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "Not listed",
       "whyFits": [
@@ -178,24 +197,6 @@
       "blurb": "PR/comms writing lane, at a Charlotte sports team. The Hornets want a Manager of Communications to work with the Director of Communications on publicity for the business side: CSR, ticket sales, partnerships, Spectrum Center renovations, and more. Day to day it's writing and editing press releases, media advisories, and talking points, pitching stories to media, prepping media events and interviews, and answering media inquiries. The listed requirements line up closely with Brendan's background: a degree in journalism/communications/sports management (preferred), AP style, writing, research, editing and transcription. No minimum years were listed, but 'Manager' in the title suggests they'll prefer some professional comms experience, so his four years running The East Carolinian's sports section is the angle to lead with. This is business-side PR, not game-day media relations or video. Verified live on TeamWork Online today with a working Apply Now button."
     },
     {
-      "id": "hdr-communication-specialist-charlotte",
-      "title": "Communication Specialist",
-      "company": "HDR",
-      "location": "Charlotte, NC",
-      "applyUrl": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=196261",
-      "source": "HDR Careers (company site)",
-      "dateFirstSeen": "2026-09-29",
-      "dateLastConfirmed": "2026-10-05",
-      "isNew": false,
-      "salary": "$25.52–$42.21/hr",
-      "whyFits": [
-        "Storytelling-focused corporate comms role: website, social media, email, intranet",
-        "Writing and social content at its core",
-        "Full-time in Charlotte with solid benefits"
-      ],
-      "blurb": "PR/comms writing lane, corporate rather than sports. HDR, an employee-owned engineering/architecture firm, wants a Communication Specialist to tell project and thought-leadership stories for its power, industrial, and waste markets group across the website, social media, email, and intranet. It also includes planning a biennial internal employee conference, so part of the job is event logistics, not writing. Requires at least 3 years of relevant communications experience (social media, writing, community engagement, and similar count), which puts Brendan right at the minimum: his 5 years of social-first video work plus 4 years as a student sports editor are the case to make. It's a moderate fit worth a look for the writing/comms lane, not a top pick. $25.52–$42.21/hour. HDR's own posting also lists 5 years as preferred, so treat this as a reach on experience. Verified open today on HDR's own careers site (job 196261, Charlotte listed as one of the locations) with a live 'Apply Online' button."
-    },
-    {
       "id": "usatoday-content-creator-sports-remote-v2",
       "title": "Content Creator, Sports",
       "company": "USA TODAY Co.",
@@ -203,7 +204,7 @@
       "applyUrl": "https://jobs.dayforcehcm.com/en-US/gannett/CANDIDATEPORTAL/jobs/91722",
       "source": "USA TODAY Co. Careers (Dayforce, employer's own job board)",
       "dateFirstSeen": "2026-09-22",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "$25.48–$39.42/hr",
       "whyFits": [
@@ -222,7 +223,7 @@
       "applyUrl": "https://www.racerjobs.com/jobs/603522983-digital-content-manager-at-rfk-racing",
       "source": "RFK Racing (via Racer Jobs, the employer's own designated career board)",
       "dateFirstSeen": "2026-09-22",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -279,7 +280,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-Promotion-Producer-WSOC-TV-Telemundo-NC-28206/1362987400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-07-02",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -317,7 +318,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4450088956",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "$100,000–$130,000/yr",
       "whyFits": [
@@ -336,7 +337,7 @@
       "applyUrl": "https://careers.cmg.com/job/Charlotte-News-Producer-WSOC-TV-Charlotte-NC-28206/1400951400/",
       "source": "Cox Media Group Careers",
       "dateFirstSeen": "2026-09-18",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -355,7 +356,7 @@
       "applyUrl": "https://jobs.spectrum.com/job/charlotte/multimedia-journalist-spectrum-news-1/4673/94753354608",
       "source": "Spectrum Careers (company site)",
       "dateFirstSeen": "2026-07-17",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -412,7 +413,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/scoutmotors/jobs/5230022007",
       "source": "Scout Motors Careers (Greenhouse, employer's own job board)",
       "dateFirstSeen": "2026-09-20",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "$85,000–$105,000/yr",
       "whyFits": [
@@ -431,7 +432,7 @@
       "applyUrl": "https://hendrick.wd5.myworkdayjobs.com/en-US/HMSCareers/job/Hendrick-Motorsports/Content-Creator_R-79291-1",
       "source": "Hendrick Motorsports Careers (Workday)",
       "dateFirstSeen": "2026-09-21",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -469,7 +470,7 @@
       "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=5579252a-fcdb-4980-810a-1e4d33979b0f",
       "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
       "dateFirstSeen": "2026-09-23",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -488,7 +489,7 @@
       "applyUrl": "https://recruiting.ultipro.com/GRA1017GRYT/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=e8906895-10f4-46f4-965e-19d991779abb",
       "source": "Gray Media careers (UKG/UltiPro, employer's own job board)",
       "dateFirstSeen": "2026-09-23",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -526,7 +527,7 @@
       "applyUrl": "https://www.teamworkonline.com/baseball-jobs/baseballjobs/tread-athletics-jobs/pitching-content-specialist-2186060",
       "source": "TeamWork Online",
       "dateFirstSeen": "2026-09-27",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "$60,000–$75,000/yr + bonus ($68,000–$80,000+ OTE)",
       "whyFits": [
@@ -545,7 +546,7 @@
       "applyUrl": "https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Charlotte/Digital-Producer_REQ-43125",
       "source": "Nexstar Careers (Workday)",
       "dateFirstSeen": "2026-09-27",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -564,7 +565,7 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4472044642",
       "source": "LinkedIn (live listing)",
       "dateFirstSeen": "2026-09-27",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "$50,000–$60,000/yr",
       "whyFits": [
@@ -583,7 +584,7 @@
       "applyUrl": "https://www.wtvi.org/about/career-opportunities/",
       "source": "PBS Charlotte careers page (employer's own site)",
       "dateFirstSeen": "2026-09-27",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "Flat rate per completed story",
       "whyFits": [
@@ -602,7 +603,7 @@
       "applyUrl": "https://www.indeed.com/viewjob?jk=75811f8904e2b5a4",
       "source": "Indeed (direct listing)",
       "dateFirstSeen": "2026-09-27",
-      "dateLastConfirmed": "2026-09-29",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": null,
       "whyFits": [
@@ -621,7 +622,7 @@
       "applyUrl": "https://jaarspeople.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN1145",
       "source": "JAARS job portal (employer's own site)",
       "dateFirstSeen": "2026-09-28",
-      "dateLastConfirmed": "2026-10-05",
+      "dateLastConfirmed": "2026-10-06",
       "isNew": false,
       "salary": "From $40,000/yr",
       "whyFits": [
@@ -630,7 +631,7 @@
         "Supports in-studio podcast recording, which suits his TecSpertz podcast work",
         "Faith-based employer: a personal Christian faith and support for its mission are required"
       ],
-      "blurb": "General video lane at a faith-based nonprofit. JAARS, a Christian missions organization based in Waxhaw, wants a Videographer to be the main camera operator for interviews, documentary shoots, and one-person shoots at its base, with occasional travel. The job also includes editing short-form reels, shorts, and podcast clips, and running cameras and audio for in-studio podcast recordings. The bar is low: an associate's degree or equivalent experience, plus field and studio camera experience and a portfolio. His 5 years, interview work, and podcast background clear that easily. Honest caveats: the job requires an active personal Christian faith and support for JAARS's missions work, and pay starts around $40,000, which is below most roles on this board. Full benefits. Verified open today on JAARS's own job portal (Vacancy VN1145) with a live Apply button."
+      "blurb": "General video lane at a faith-based nonprofit. JAARS, a Christian missions organization based in Waxhaw, wants a Videographer to be the main camera operator for interviews, documentary shoots, and one-person shoots at its base, with occasional travel. The job also includes editing short-form reels, shorts, and podcast clips, and running cameras and audio for in-studio podcast recordings. The bar is low: an associate's degree or equivalent experience, plus field and studio camera experience and a portfolio. His 5 years, interview work, and podcast background clear that easily. Honest caveats: the job requires an active personal Christian faith and support for JAARS's missions work, and pay starts around $40,000 and the role is listed at half-time (0.5 FTE), so it is below most roles on this board. NOTE: the posting lists this as a 0.5 FTE (half-time) position. Verified open today on JAARS's own job portal (Vacancy VN1145) with a live Apply button."
     }
   ],
   "inProgress": [
