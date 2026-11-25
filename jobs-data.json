@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-11-24T07:00:00-05:00",
+    "lastUpdated": "2026-11-25T07:00:00-05:00",
     "market": "Charlotte, NC",
     "candidate": {
         "name": "Brendan Cavazos",
@@ -261,7 +261,7 @@
             "applyUrl": "https://www.upwork.com/nx/search/jobs/?q=video%20editor",
             "source": "Upwork (live job search, verified loading current postings today)",
             "dateFirstSeen": "2026-11-02",
-            "dateLastConfirmed": "2026-11-24",
+            "dateLastConfirmed": "2026-11-25",
             "isNew": false,
             "salary": "Varies by gig",
             "whyFits": [
@@ -280,7 +280,7 @@
             "applyUrl": "https://www.upwork.com/nx/search/jobs/?q=writing",
             "source": "Upwork (live job search, verified loading current postings today)",
             "dateFirstSeen": "2026-11-03",
-            "dateLastConfirmed": "2026-11-24",
+            "dateLastConfirmed": "2026-11-25",
             "isNew": false,
             "salary": "Varies by gig",
             "whyFits": [
@@ -603,8 +603,8 @@
             "applyUrl": "https://nascar.wd1.myworkdayjobs.com/en-US/NASCAR/job/Charlotte-NC/Coordinator--Web-Content-Interactive-Applications_JR14450?source=NASCARCareers",
             "source": "NASCAR Careers (Workday, employer's own job board)",
             "dateFirstSeen": "2026-11-24",
-            "dateLastConfirmed": "2026-11-24",
-            "isNew": true,
+            "dateLastConfirmed": "2026-11-25",
+            "isNew": false,
             "salary": null,
             "whyFits": [
                 "Writing/content lane at NASCAR itself — a step beyond the team-level (Hendrick/RFK/RCR) roles already on this board",
@@ -613,6 +613,25 @@
                 "Race-weekend coverage duties overlap with his live/field broadcast background"
             ],
             "blurb": "Writing/content lane, and notable for being at NASCAR's sanctioning-body level rather than a single team. NASCAR wants a Coordinator, Web Content Interactive Applications to develop and publish original editorial content and manage weekly/monthly content calendars for NASCAR-owned track websites and the NASCAR Tracks mobile app, collaborating with Communications, Marketing, and Event Experience teams, plus providing live race-weekend coverage and updates. The bar is a bachelor's degree plus 3+ years of content management, marketing, or guest-experience-technology experience (or an equivalent combination), with Adobe Creative Cloud and WordPress listed as tools — a solid match for Brendan's journalism degree, four years running The East Carolinian's sports section, and general content toolset, even though this is digital content coordination rather than video editing or on-air reporting. Requires flexibility for nights/weekends and about 25% travel. Posted 7 days ago. Verified live today directly on NASCAR's own Workday careers site (Req JR14450) with a working Apply button."
+        },
+        {
+            "id": "snowball-video-editor-remote",
+            "title": "Video Editor",
+            "company": "Snowball",
+            "location": "Remote (USA) — fully remote, no Charlotte tie needed",
+            "applyUrl": "https://builtin.com/job/video-editor-snowball/9020681",
+            "source": "Built In (Snowball's own live job listing)",
+            "dateFirstSeen": "2026-11-25",
+            "dateLastConfirmed": "2026-11-25",
+            "isNew": true,
+            "salary": "$80,000–$100,000/yr",
+            "whyFits": [
+                "Fully-remote, full-time video-editing lane — a real salaried seat at a YouTube-focused creative agency",
+                "3–5+ years of professional editing experience asked, right at his 5 years",
+                "Adobe Premiere Pro / After Effects required, exact toolset match",
+                "Long-form storytelling/pacing/retention editing for brand YouTube channels — a different niche than sports/broadcast, but the same core editing craft"
+            ],
+            "blurb": "General video-editing lane, fully remote. Snowball, a YouTube-focused creative agency founded by former Jubilee CEO Ryan Hashemi, wants a founding Video Editor to craft long-form YouTube content for major brand clients — assembling rough cuts, refining pacing for retention, and collaborating with producers and strategists across multiple projects at once. The bar is 3-5+ years of professional editing experience with a strong storytelling portfolio (YouTube experience preferred) plus deep Adobe Premiere Pro or After Effects skills, which lines up cleanly with Brendan's 5 years and toolset. Honest caveat: this is brand/YouTube-content editing for an agency, not sports or broadcast, and the application explicitly asks for something creative beyond a resume to show personality and fit. $80,000-$100,000/year, full-time, fully remote. Verified open today on Built In (Snowball's own live listing, refreshed within the last 3 months) with a working Apply button."
         }
     ],
     "inProgress": [
